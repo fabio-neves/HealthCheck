@@ -32,6 +32,7 @@ namespace HealthCheck.Hosting
                         {
                             context.Response.StatusCode = 500;
                             await context.Response.WriteAsync($"NOK");
+                            return;
                         }
                     }
                     context.Response.StatusCode = 200;
