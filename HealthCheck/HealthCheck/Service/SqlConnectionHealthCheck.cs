@@ -4,7 +4,7 @@ using System;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
-namespace HealthCheck.Service
+namespace FNS.HealthCheck.Service
 {
     public class SqlConnectionHealthCheck : IHealthCheckService
     {

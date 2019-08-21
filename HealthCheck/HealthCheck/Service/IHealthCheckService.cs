@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace HealthCheck.Service
+namespace FNS.HealthCheck.Service
 {
     public interface IHealthCheckService
     {

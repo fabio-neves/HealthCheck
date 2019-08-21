@@ -1,9 +1,9 @@
-﻿using HealthCheck.Hosting;
-using HealthCheck.Service;
+﻿using FNS.HealthCheck.Hosting;
+using FNS.HealthCheck.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace HealthCheck.Configuration
+namespace FNS.HealthCheck.Configuration
 {
     public static class HealthCheckApplicationBuilderExtensions
     {

@@ -1,4 +1,4 @@
-﻿namespace HealthCheck.Configuration
+﻿namespace FNS.HealthCheck.Configuration
 {
     public class HealthCheckOptions
     {

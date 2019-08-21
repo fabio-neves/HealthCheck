@@ -1,5 +1,5 @@
-﻿using HealthCheck.Configuration;
-using HealthCheck.Service;
+﻿using FNS.HealthCheck.Configuration;
+using FNS.HealthCheck.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace HealthCheck.Hosting
+namespace FNS.HealthCheck.Hosting
 {
     public class HealthCheckMiddleware
     {
