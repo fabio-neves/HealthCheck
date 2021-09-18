@@ -10,8 +10,7 @@
     <AssemblyName>FNS.HealthCheck</AssemblyName>
     <RootNamespace>FNS.HealthCheck</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageLicenseUrl>https://github.com/fabio-neves/HealthCheck/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>    
   </PropertyGroup>
 
   <ItemGroup>
