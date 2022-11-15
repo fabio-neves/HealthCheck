@@ -5,7 +5,7 @@
     <PackageId>FNS.HealthCheck</PackageId>    
     <PackageLicenseExpression>MIT</PackageLicenseExpression>    
     <RepositoryUrl>https://github.com/fabio-neves/HealthCheck</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Fábio Neves de Souza</Authors>
     <AssemblyName>FNS.HealthCheck</AssemblyName>
     <RootNamespace>FNS.HealthCheck</RootNamespace>
